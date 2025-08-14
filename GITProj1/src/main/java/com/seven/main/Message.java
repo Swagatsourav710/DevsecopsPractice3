@@ -1,9 +1,8 @@
 package com.seven.main;
 
 public class Message {
-	private void syso() {
-		System.out.println("helpGG");
-
+	
+public static void main(String[] args) {
+	System.out.println("HELLPO");
 	}
-
 }
